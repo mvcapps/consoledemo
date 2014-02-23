@@ -21,6 +21,8 @@ namespace ConsoleApplication1
             // feature 1.1 update
 
             // feature 1.1. additional update
+
+            // master updates
         }
     }
 }
